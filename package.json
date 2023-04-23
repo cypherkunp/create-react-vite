@@ -1,8 +1,22 @@
 {
   "name": "create-react-vite",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "This is a template for building client side react app.",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypherkunp/create-react-vite.git"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "tailwindcss",
+    "eslint",
+    "prettier"
+  ],
+  "author": "devvratshukla@gmail.com",
+  "license": "ISC",
+  "homepage": "https://github.com/cypherkunp/create-react-vite#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
